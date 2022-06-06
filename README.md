@@ -4,7 +4,7 @@ This section of the assessment covers unsupervised learning with R.
 
 By revisit last week's case study and using the learnings, the given datasets and insights thus you can add a modeling section to the last IP. We will create a supervised learning model to help identify which individuals are most likely to click on the ads in the blog.
 
-### RPubs Publication
+#### RPubs Publication
 The final project was published in [RPubs](https://rpubs.com/Binti_Kadzo/910110)
 
 ### Part 2: Customer Behavioural Analysis
@@ -33,5 +33,6 @@ The final project was published in [Rpubs](https://rpubs.com/Binti_Kadzo/911113)
 
 #### Used Technologies
 The languages and IDEs used in the analysis project were:
+
       - R
       - RStudio
