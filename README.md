@@ -29,7 +29,7 @@ You will create a Markdown which will comprise the following sections.
 The dataset for this Independent project can be found [here](http://bit.ly/EcommerceCustomersDataset).
 
 #### RPubs Publication
-The final project was published in [Rpubs]()
+The final project was published in [Rpubs](https://rpubs.com/Binti_Kadzo/911113)
 
 #### Used Technologies
 The languages and IDEs used in the analysis project were:
